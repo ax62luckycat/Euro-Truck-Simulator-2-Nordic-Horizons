@@ -193,4 +193,4 @@ This repository serves as the official landing page for Euro Truck Simulator 2 â
 **Get the most recent version of Euro Truck Simulator 2 â€“ Nordic Horizons today!**
 
 ---
-**Last updated:** 2026-11-09 00:36:31 UTC
+**Last updated:** 2026-11-09 07:42:12 UTC
